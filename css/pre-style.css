@@ -1,0 +1,13 @@
+pre {
+	border:1px solid gray;
+    overflow-x: auto;
+	color: #212121;
+	background: #EEEEEE;
+	padding: 10px;
+	border-radius: 5px;
+	border-left: 5px solid skyblue;
+}
+code {
+	color: #212121;
+	background: #EEEEEE;
+}
